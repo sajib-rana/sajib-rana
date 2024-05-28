@@ -1,7 +1,7 @@
 ![MERN Stack Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-1/440584255_3644483455818707_1070487094175738350_n.jpg?stp=c74.8.176.175a_dst-jpg_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGOcJ9phPMO27BloJ9mlmf6cXgXmeGn-IhxeBeZ4af4iO9nnTyFss0ZWMVjS5aDS9ZwHJQ-AcrwNr95fPW4-IMM&_nc_ohc=p0XdsM9pZIoQ7kNvgF75Ldu&_nc_ht=scontent.fdac14-1.fna&oh=00_AYAZViHDbYa_OkCpQ2tYrDZxtw7qwOlnXEVXP1uJmERjJQ&oe=66515514)
 
 ### Hi there 👋, I'm Sajib Rana
-#### MERN Stack Web Developer
+#### React Specialist
 
 
 Hi ! This is Md. Sajib Rana. I have completed my B.Sc. in Computer science & Engineering from Manarat International University and expertise in MERN STACK WEB DEVELOPMENT.
@@ -17,6 +17,7 @@ In addition, I have a strong passion for learning and staying up-to-date with th
 If you are looking for a MERN stack web developer who can deliver top-quality projects on-time and within budget, please feel free to contact me.
 
 Email : Sajibrana444@gmail.com
+
 Phone : 01703160234
 
 Skills:  REACT / JS / HTML / CSS / NodeJS / Mongodb
